@@ -18,9 +18,9 @@ main:			// this our label for the main
 	add R3, R0, R1		// R3 = R0 + R1
 	sub R4, R1, R0		// R4 = R1 - R0
 	mul R5, R1, R2		// R5 = R1 * R2
-	mov R0, #12		//move into register R0, the integer 
-				//literal 2 
-	mov PC, LR		//Move into the PC (program counter) 
+	mov R0, #12		// move into register R0, the integer 
+				// literal 2 
+	mov PC, LR		// Move into the PC (program counter) 
 				// registe, the address in LR
 
 
