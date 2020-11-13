@@ -21,6 +21,6 @@ main:			// this our label for the main
 	mov R0, #12		// move into register R0, the integer 
 				// literal 2 
 	mov PC, LR		// Move into the PC (program counter) 
-				// registe, the address in LR
+				// register, the address in LR
 
 
